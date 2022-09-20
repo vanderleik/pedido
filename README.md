@@ -1,2 +1,2 @@
 # pedido
-Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do pedido conforme exemplo (próxima página). 
+Programa que faz a leitura dos dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostra um sumário do pedido. 
